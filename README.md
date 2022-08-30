@@ -1,6 +1,8 @@
 Assignment-Coursera
 10.04.2022
-# Practices
-. Responsive Design
-. Media Queries
-The HTML, CSS, and Javascript for Web Developers course by Yaakov Chaikin
+
+This is a responsive page so feel free to change the scale on your computer so see changes.
+
+<img src="" />
+
+<img src="" /><img src="" />
